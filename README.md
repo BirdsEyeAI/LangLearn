@@ -31,7 +31,7 @@ Check out Helsinki Opus-MT's model card here:
 <h3>:star2: Introducing a Translation Rating System</h3>
 I am currently working on integrating a user rating system that will allow this app to harness community feedback to assess and improve on the translation and summarization features. This will allow community interaction and will facilitate the integration and support of additional languages, while helping to discover opportunities for fine tuning and optimizing the summarization and translation processes. 
 
-<h3>:mortar board: Integrating Advanced NLP Processing</h3>
+<h3>🎓: Integrating Advanced NLP Processing</h3>
 I also plan on incorporating advanced NLP text processing techniques that will allow this tool to better handle humor, sarcasm, and other nuances that often exist in texts and could throw off the summarization or translations. I expect this step to yield exciting improvements to the overall workflow capabailities of this app, enhancing the versatility and usability. 
 
 <h3>:mag: Question-Answering Integration</h3>
