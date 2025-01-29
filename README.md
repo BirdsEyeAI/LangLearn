@@ -9,7 +9,7 @@ Enhancing global accessibility to knowledge using open-source Hugging Face LLMs.
 <h2>:book: The Dataset:</h2>
 This project uses a Kaggle dataset consisting of Ted Talk video transcripts. 
 
-You can find this dataset here:
+You can find this dataset here: link to dataset
 
 <h2>⤵️Data Flow:</h2>
 
