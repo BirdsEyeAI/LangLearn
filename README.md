@@ -36,3 +36,5 @@ I also plan on incorporating advanced NLP text processing techniques that will a
 
 <h3>:mag: Question-Answering Integration</h3>
 Question answering is another exciting feature that I plan on implementing in future updates because I think it could really make a difference in turning this application into a highly customizable learning tool that would allow users to interact with texts and explore information on a more personalized level. 
+
+<h2>Setup</h2>
