@@ -6,8 +6,8 @@ Enhancing global accessibility to knowledge using open-source Hugging Face LLMs.
 <ul>Pytorch</ul>
 <ul>Hugging Face LLMs</ul>
 
-<h2>:book: The Dataset:</h2>
-This project uses a Kaggle dataset consisting of Ted Talk video transcripts. 
+<h2>:book: Transcript Processing:</h2>
+This project uses a Kaggle dataset consisting of Ted Talk video transcripts. In future updates, you will be able to choose whether to process data from an API endpoint, or to process data from a static file such as a csv, dataframe, etc. 
 
 You can find this dataset here: link to dataset
 
